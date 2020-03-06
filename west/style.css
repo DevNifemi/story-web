@@ -1,0 +1,20 @@
+img{
+    width: 400px;
+}
+i{
+    color: purple;
+}
+/* nav{
+    position: fixed;
+    top: 0px;
+} */
+
+/* ******************* */
+
+<div class="container">
+        <ul class="collapsible">
+        
+<li>
+<div class="collapsible-header"><i class="material-icons">import_contacts</i>Episode 7</div>
+<div class="collapsible-body"><span>EPISODE 7</span></div>
+</li>
